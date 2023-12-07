@@ -337,45 +337,85 @@ msgctxt "#30077"
 msgid "System > Printer"
 msgstr "Sistema > Impresora"
 
-msgctxt "#30077"
+msgctxt "#30078"
 msgid "Video > Crop"
-msgstr "Vídeo > Recortar"
+msgstr ""
 
-msgctxt "#30077"
+msgctxt "#30079"
 msgid "Video > Zoom Mode"
-msgstr "Vídeo > Modo Zoom"
+msgstr ""
 
-msgctxt "#30077"
+msgctxt "#30080"
 msgid "Video > Crop Mode"
-msgstr "Vídeo > Modo de Recorte"
+msgstr ""
 
-msgctxt "#30077"
+msgctxt "#30081"
 msgid "Video > Zoom Mode Crop"
-msgstr "Vídeo > Modo Recorte Zoom"
+msgstr ""
 
-msgctxt "#30077"
+msgctxt "#30082"
 msgid "Video > Manual Crop Top"
-msgstr "Vídeo > Recorte Manual Parte Superior"
+msgstr ""
 
-msgctxt "#30077"
+msgctxt "#30083"
 msgid "Video > Manual Crop Bottom"
-msgstr "Vídeo > Recorte Manual Parte Inferior"
+msgstr ""
 
-msgctxt "#30077"
+msgctxt "#30084"
 msgid "Video > Manual Crop Left"
-msgstr "Vídeo > Recorte Manual Parte Izquierda"
+msgstr ""
 
-msgctxt "#30077"
+msgctxt "#30085"
 msgid "Video > Manual Crop Right"
-msgstr "Vídeo > Recorte Manual Parte Derecha"
+msgstr ""
 
-msgctxt "#30077"
+msgctxt "#30086"
 msgid "Hotkey > Toggle Crop"
-msgstr "Tecla Rápida > Activar Recorte"
+msgstr ""
 
-msgctxt "#30077"
+msgctxt "#30087"
 msgid "Hotkey > Toggle Zoom Mode"
-msgstr "Tecla Rápida > Activar Modo Zoom"
+msgstr ""
+
+#~ msgctxt "#30077"
+#~ msgid "Video > Crop"
+#~ msgstr "Vídeo > Recortar"
+
+#~ msgctxt "#30077"
+#~ msgid "Video > Zoom Mode"
+#~ msgstr "Vídeo > Modo Zoom"
+
+#~ msgctxt "#30077"
+#~ msgid "Video > Crop Mode"
+#~ msgstr "Vídeo > Modo de Recorte"
+
+#~ msgctxt "#30077"
+#~ msgid "Video > Zoom Mode Crop"
+#~ msgstr "Vídeo > Modo Recorte Zoom"
+
+#~ msgctxt "#30077"
+#~ msgid "Video > Manual Crop Top"
+#~ msgstr "Vídeo > Recorte Manual Parte Superior"
+
+#~ msgctxt "#30077"
+#~ msgid "Video > Manual Crop Bottom"
+#~ msgstr "Vídeo > Recorte Manual Parte Inferior"
+
+#~ msgctxt "#30077"
+#~ msgid "Video > Manual Crop Left"
+#~ msgstr "Vídeo > Recorte Manual Parte Izquierda"
+
+#~ msgctxt "#30077"
+#~ msgid "Video > Manual Crop Right"
+#~ msgstr "Vídeo > Recorte Manual Parte Derecha"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "Tecla Rápida > Activar Recorte"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Tecla Rápida > Activar Modo Zoom"
 
 #~ msgctxt "#30022"
 #~ msgid "OSD > Statusbar Messages"
