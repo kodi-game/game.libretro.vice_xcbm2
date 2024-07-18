@@ -377,6 +377,14 @@ msgctxt "#30087"
 msgid "Hotkey > Toggle Zoom Mode"
 msgstr "Tecla Rápida > Activar Modo Zoom"
 
+msgctxt "#30088"
+msgid "Media > Floppy MultiDrive"
+msgstr ""
+
+msgctxt "#30089"
+msgid "Video > Automatic Crop Delay"
+msgstr ""
+
 #~ msgctxt "#30077"
 #~ msgid "Video > Crop"
 #~ msgstr "Vídeo > Recortar"
