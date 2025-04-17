@@ -329,17 +329,9 @@ msgctxt "#30078"
 msgid "Video > Crop"
 msgstr "Видео > Обрезка"
 
-msgctxt "#30079"
-msgid "Video > Zoom Mode"
-msgstr "Видео > Режим масштабирования"
-
 msgctxt "#30080"
 msgid "Video > Crop Mode"
 msgstr "Видео > Режим обрезки"
-
-msgctxt "#30081"
-msgid "Video > Zoom Mode Crop"
-msgstr "Видео > урезанный режим масштабирования"
 
 msgctxt "#30082"
 msgid "Video > Manual Crop Top"
@@ -361,10 +353,6 @@ msgctxt "#30086"
 msgid "Hotkey > Toggle Crop"
 msgstr ""
 
-msgctxt "#30087"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr ""
-
 msgctxt "#30088"
 msgid "Media > Floppy MultiDrive"
 msgstr ""
@@ -372,6 +360,14 @@ msgstr ""
 msgctxt "#30089"
 msgid "Video > Automatic Crop Delay"
 msgstr ""
+
+#~ msgctxt "#30079"
+#~ msgid "Video > Zoom Mode"
+#~ msgstr "Видео > Режим масштабирования"
+
+#~ msgctxt "#30081"
+#~ msgid "Video > Zoom Mode Crop"
+#~ msgstr "Видео > урезанный режим масштабирования"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

@@ -330,17 +330,9 @@ msgctxt "#30078"
 msgid "Video > Crop"
 msgstr "Video > Beskär"
 
-msgctxt "#30079"
-msgid "Video > Zoom Mode"
-msgstr "Video > Zoom-läge"
-
 msgctxt "#30080"
 msgid "Video > Crop Mode"
 msgstr "Video > Beskärningsläge"
-
-msgctxt "#30081"
-msgid "Video > Zoom Mode Crop"
-msgstr "Video > Zoomläge beskärning"
 
 msgctxt "#30082"
 msgid "Video > Manual Crop Top"
@@ -362,10 +354,6 @@ msgctxt "#30086"
 msgid "Hotkey > Toggle Crop"
 msgstr "Snabbtangent > Växla beskärning"
 
-msgctxt "#30087"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr "Snabbtangent > Växla zoomläge"
-
 msgctxt "#30088"
 msgid "Media > Floppy MultiDrive"
 msgstr "Media > Diskett MultiDrive"
@@ -373,6 +361,18 @@ msgstr "Media > Diskett MultiDrive"
 msgctxt "#30089"
 msgid "Video > Automatic Crop Delay"
 msgstr "Video > Automatisk fördröjning av beskärning"
+
+#~ msgctxt "#30079"
+#~ msgid "Video > Zoom Mode"
+#~ msgstr "Video > Zoom-läge"
+
+#~ msgctxt "#30081"
+#~ msgid "Video > Zoom Mode Crop"
+#~ msgstr "Video > Zoomläge beskärning"
+
+#~ msgctxt "#30087"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Snabbtangent > Växla zoomläge"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
