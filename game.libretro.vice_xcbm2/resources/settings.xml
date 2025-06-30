@@ -35,6 +35,7 @@
 		<setting label="30025" type="select" id="vice_audio_options_display" values="disabled|enabled" default="disabled"/>
 		<setting label="30026" type="select" id="vice_drive_sound_emulation" values="20%|disabled|5%|10%|15%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%" default="20%"/>
 		<setting label="30027" type="select" id="vice_datasette_sound" values="disabled|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%|100%|-1" default="disabled"/>
+		<setting label="30090" type="select" id="vice_audio_leak_emulation" values="disabled|1|2|3|4|5|6|7|8|9|10" default="disabled"/>
 		<setting label="30028" type="select" id="vice_sid_engine" values="ReSID|FastSID" default="ReSID"/>
 		<setting label="30029" type="select" id="vice_sid_model" values="default|6581|8580|8580RD" default="default"/>
 		<setting label="30030" type="select" id="vice_sid_extra" values="disabled|0xd420|0xd500|0xde00|0xdf00" default="disabled"/>
