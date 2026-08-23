@@ -1627,6 +1627,82 @@ msgctxt "#30397"
 msgid "Purple"
 msgstr ""
 
+msgctxt "#30398"
+msgid "5%"
+msgstr ""
+
+msgctxt "#30399"
+msgid "15%"
+msgstr ""
+
+msgctxt "#30400"
+msgid "20%"
+msgstr ""
+
+msgctxt "#30401"
+msgid "25%"
+msgstr ""
+
+msgctxt "#30402"
+msgid "30%"
+msgstr ""
+
+msgctxt "#30403"
+msgid "35%"
+msgstr ""
+
+msgctxt "#30404"
+msgid "40%"
+msgstr ""
+
+msgctxt "#30405"
+msgid "45%"
+msgstr ""
+
+msgctxt "#30406"
+msgid "55%"
+msgstr ""
+
+msgctxt "#30407"
+msgid "60%"
+msgstr ""
+
+msgctxt "#30408"
+msgid "65%"
+msgstr ""
+
+msgctxt "#30409"
+msgid "70%"
+msgstr ""
+
+msgctxt "#30410"
+msgid "75%"
+msgstr ""
+
+msgctxt "#30411"
+msgid "80%"
+msgstr ""
+
+msgctxt "#30412"
+msgid "85%"
+msgstr ""
+
+msgctxt "#30413"
+msgid "90%"
+msgstr ""
+
+msgctxt "#30414"
+msgid "95%"
+msgstr ""
+
+msgctxt "#30415"
+msgid "6581"
+msgstr ""
+
+msgctxt "#30416"
+msgid "8580"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "设置"
