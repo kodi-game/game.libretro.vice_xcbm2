@@ -607,10 +607,6 @@ msgctxt "#30146"
 msgid "Configure video options."
 msgstr "Konfigurovat volby videa."
 
-msgctxt "#30147"
-msgid "Remove borders according to 'Crop Mode'."
-msgstr "Odstraní okraje podle 'Režimu oříznutí'."
-
 msgctxt "#30148"
 msgid "Small"
 msgstr "Malé"
@@ -1736,3 +1732,11 @@ msgstr "6581"
 msgctxt "#30416"
 msgid "8580"
 msgstr "8580"
+
+msgctxt "#30417"
+msgid "Remove borders according to 'Crop Mode'. 'Auto-Disable' stays disabled until content reset."
+msgstr ""
+
+#~ msgctxt "#30147"
+#~ msgid "Remove borders according to 'Crop Mode'."
+#~ msgstr "Odstraní okraje podle 'Režimu oříznutí'."
