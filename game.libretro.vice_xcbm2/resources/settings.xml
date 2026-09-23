@@ -345,7 +345,7 @@
 		</category>
 		<category id="video" label="30145" help="30146">
 			<group id="1">
-				<setting id="vice_crop" type="string" label="30078" help="30147">
+				<setting id="vice_crop" type="string" label="30078" help="30417">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
