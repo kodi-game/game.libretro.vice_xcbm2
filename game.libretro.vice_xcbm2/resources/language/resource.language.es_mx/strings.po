@@ -270,6 +270,10 @@ msgctxt "#30146"
 msgid "Configure video options."
 msgstr ""
 
+msgctxt "#30147"
+msgid "Remove borders according to 'Crop Mode'."
+msgstr ""
+
 msgctxt "#30148"
 msgid "Small"
 msgstr ""
@@ -1375,37 +1379,77 @@ msgctxt "#30417"
 msgid "Remove borders according to 'Crop Mode'. 'Auto-Disable' stays disabled until content reset."
 msgstr ""
 
+msgctxt "#30418"
+msgid "Model"
+msgstr ""
+
 msgctxt "#30419"
 msgid "Printer"
 msgstr "A"
 
-msgctxt "#30446"
-msgid "True Drive Emulation"
-msgstr "Autoinicio"
+msgctxt "#30420"
+msgid "Read 'vicerc'"
+msgstr ""
 
-msgctxt "#30447"
-msgid "Virtual Device Traps"
-msgstr "Carga automática de Warp"
+msgctxt "#30421"
+msgid "Reset Type"
+msgstr ""
 
-msgctxt "#30448"
-msgid "Floppy MultiDrive"
-msgstr "R3"
+msgctxt "#30422"
+msgid "Drive Sound Emulation"
+msgstr "Color de pistola/puntero de luz"
 
-msgctxt "#30449"
-msgid "Floppy Write Protection"
-msgstr "Emulación de unidad precisa"
+msgctxt "#30423"
+msgid "Datasette Sound"
+msgstr "Filtro VIC-II"
 
-msgctxt "#30450"
-msgid "Global Work Disk"
-msgstr "Trampas de dispositivo virtual"
+msgctxt "#30424"
+msgid "CRTC Audio Leak Emulation"
+msgstr ""
 
-msgctxt "#30451"
-msgid "Cartridge"
-msgstr "Protección de escritura de floppy"
+msgctxt "#30425"
+msgid "SID Engine"
+msgstr "Paleta de color VIC-II"
+
+msgctxt "#30426"
+msgid "SID Model"
+msgstr "Gamma de color VIC-II"
+
+msgctxt "#30427"
+msgid "SID Extra"
+msgstr "Brillo de color VIC-II"
+
+msgctxt "#30428"
+msgid "ReSID Sampling"
+msgstr "Contraste de color VIC-II"
+
+msgctxt "#30429"
+msgid "ReSID Filter Passband"
+msgstr "Profundidad de color"
+
+msgctxt "#30430"
+msgid "ReSID Filter Gain"
+msgstr "Tinte de color VIC-II"
+
+msgctxt "#30431"
+msgid "ReSID Filter 6581 Bias"
+msgstr ""
+
+msgctxt "#30432"
+msgid "ReSID Filter 8580 Bias"
+msgstr "Emulación de sonido de unidad"
+
+msgctxt "#30433"
+msgid "Sample Rate"
+msgstr "Sonido de datassete"
 
 msgctxt "#30434"
 msgid "Crop"
 msgstr "B"
+
+msgctxt "#30435"
+msgid "Automatic Crop Delay"
+msgstr ""
 
 msgctxt "#30436"
 msgid "Crop Mode"
@@ -1439,73 +1483,37 @@ msgctxt "#30443"
 msgid "Color Depth"
 msgstr "Modo de acercamiento recorte"
 
-msgctxt "#30490"
-msgid "Virtual KBD Theme"
-msgstr "Recorte manual superior"
+msgctxt "#30444"
+msgid "Automatic Load Warp"
+msgstr ""
 
-msgctxt "#30491"
-msgid "Virtual KBD Transparency"
-msgstr "Recorte manual inferior"
+msgctxt "#30445"
+msgid "Warp Boost"
+msgstr ""
 
-msgctxt "#30492"
-msgid "Virtual KBD Dimming"
-msgstr "Recorte manual izquierdo"
+msgctxt "#30446"
+msgid "True Drive Emulation"
+msgstr "Autoinicio"
 
-msgctxt "#30493"
-msgid "Statusbar Mode"
-msgstr "Recorte manual derecho"
+msgctxt "#30447"
+msgid "Virtual Device Traps"
+msgstr "Carga automática de Warp"
 
-msgctxt "#30494"
-msgid "Statusbar Startup"
-msgstr "Modo de barra de estado"
+msgctxt "#30448"
+msgid "Floppy MultiDrive"
+msgstr "R3"
 
-msgctxt "#30495"
-msgid "Statusbar Messages"
-msgstr "Tema de teclado virtual"
+msgctxt "#30449"
+msgid "Floppy Write Protection"
+msgstr "Emulación de unidad precisa"
 
-msgctxt "#30496"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "Transparencia de teclado virtual"
+msgctxt "#30450"
+msgid "Global Work Disk"
+msgstr "Trampas de dispositivo virtual"
 
-msgctxt "#30422"
-msgid "Drive Sound Emulation"
-msgstr "Color de pistola/puntero de luz"
-
-msgctxt "#30423"
-msgid "Datasette Sound"
-msgstr "Filtro VIC-II"
-
-msgctxt "#30425"
-msgid "SID Engine"
-msgstr "Paleta de color VIC-II"
-
-msgctxt "#30426"
-msgid "SID Model"
-msgstr "Gamma de color VIC-II"
-
-msgctxt "#30427"
-msgid "SID Extra"
-msgstr "Brillo de color VIC-II"
-
-msgctxt "#30428"
-msgid "ReSID Sampling"
-msgstr "Contraste de color VIC-II"
-
-msgctxt "#30429"
-msgid "ReSID Filter Passband"
-msgstr "Profundidad de color"
-
-msgctxt "#30430"
-msgid "ReSID Filter Gain"
-msgstr "Tinte de color VIC-II"
-
-msgctxt "#30432"
-msgid "ReSID Filter 8580 Bias"
-msgstr "Emulación de sonido de unidad"
-
-msgctxt "#30433"
-msgid "Sample Rate"
-msgstr "Sonido de datassete"
+msgctxt "#30451"
+msgid "Cartridge"
+msgstr "Protección de escritura de floppy"
 
 msgctxt "#30452"
 msgid "Keyboard Pass-through"
@@ -1514,6 +1522,10 @@ msgstr "Emulación de distorsión de audio VIC-II"
 msgctxt "#30453"
 msgid "Datasette Hotkeys"
 msgstr "Motor SID"
+
+msgctxt "#30454"
+msgid "Userport Joystick Adapter"
+msgstr "Derecha"
 
 msgctxt "#30455"
 msgid "Toggle Turbo Fire"
@@ -1575,6 +1587,10 @@ msgctxt "#30469"
 msgid "Right"
 msgstr "Asignaciones de teclado Keyrah"
 
+msgctxt "#30470"
+msgid "B"
+msgstr ""
+
 msgctxt "#30471"
 msgid "A"
 msgstr "Distribución de teclado"
@@ -1619,29 +1635,69 @@ msgctxt "#30481"
 msgid "R3"
 msgstr "Alternar atajos de teclado de datassete"
 
-msgctxt "#30454"
-msgid "Userport Joystick Adapter"
-msgstr "Derecha"
+msgctxt "#30482"
+msgid "Left Analog > Up"
+msgstr ""
 
-#~ msgctxt "#30001"
-#~ msgid "System > Model"
-#~ msgstr ""
+msgctxt "#30483"
+msgid "Left Analog > Down"
+msgstr ""
 
-#~ msgctxt "#30002"
-#~ msgid "System > Read 'vicerc'"
-#~ msgstr ""
+msgctxt "#30484"
+msgid "Left Analog > Left"
+msgstr ""
 
-#~ msgctxt "#30003"
-#~ msgid "System > Reset Type"
-#~ msgstr ""
+msgctxt "#30485"
+msgid "Left Analog > Right"
+msgstr ""
+
+msgctxt "#30486"
+msgid "Right Analog > Up"
+msgstr ""
+
+msgctxt "#30487"
+msgid "Right Analog > Down"
+msgstr ""
+
+msgctxt "#30488"
+msgid "Right Analog > Left"
+msgstr ""
+
+msgctxt "#30489"
+msgid "Right Analog > Right"
+msgstr ""
+
+msgctxt "#30490"
+msgid "Virtual KBD Theme"
+msgstr "Recorte manual superior"
+
+msgctxt "#30491"
+msgid "Virtual KBD Transparency"
+msgstr "Recorte manual inferior"
+
+msgctxt "#30492"
+msgid "Virtual KBD Dimming"
+msgstr "Recorte manual izquierdo"
+
+msgctxt "#30493"
+msgid "Statusbar Mode"
+msgstr "Recorte manual derecho"
+
+msgctxt "#30494"
+msgid "Statusbar Startup"
+msgstr "Modo de barra de estado"
+
+msgctxt "#30495"
+msgid "Statusbar Messages"
+msgstr "Tema de teclado virtual"
+
+msgctxt "#30496"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Transparencia de teclado virtual"
 
 #~ msgctxt "#30004"
 #~ msgid "Media > Automatic Load Warp"
 #~ msgstr "Medios > Carga automática de Warp"
-
-#~ msgctxt "#30005"
-#~ msgid "Media > Warp Boost"
-#~ msgstr ""
 
 #~ msgctxt "#30006"
 #~ msgid "Media > Autostart"
@@ -1667,45 +1723,9 @@ msgstr "Derecha"
 #~ msgid "Media > Cartridge"
 #~ msgstr "Medios > Cartucho"
 
-#~ msgctxt "#30013"
-#~ msgid "Video > CRTC Filter"
-#~ msgstr ""
-
-#~ msgctxt "#30016"
-#~ msgid "Video > CRTC Color Palette"
-#~ msgstr ""
-
 #~ msgctxt "#30017"
 #~ msgid "Video > Color Depth"
 #~ msgstr "Video > Profundidad de color"
-
-#~ msgctxt "#30018"
-#~ msgid "OSD > Virtual KBD Theme"
-#~ msgstr ""
-
-#~ msgctxt "#30019"
-#~ msgid "OSD > Virtual KBD Transparency"
-#~ msgstr ""
-
-#~ msgctxt "#30020"
-#~ msgid "OSD > Virtual KBD Dimming"
-#~ msgstr ""
-
-#~ msgctxt "#30021"
-#~ msgid "OSD > Statusbar Mode"
-#~ msgstr ""
-
-#~ msgctxt "#30022"
-#~ msgid "OSD > Statusbar Startup"
-#~ msgstr ""
-
-#~ msgctxt "#30023"
-#~ msgid "OSD > Statusbar Messages"
-#~ msgstr ""
-
-#~ msgctxt "#30024"
-#~ msgid "OSD > Light Pen/Gun Pointer Color"
-#~ msgstr ""
 
 #~ msgctxt "#30026"
 #~ msgid "Audio > Drive Sound Emulation"
@@ -1727,26 +1747,6 @@ msgstr "Derecha"
 #~ msgid "Audio > SID Extra"
 #~ msgstr "Audio > Extra SID"
 
-#~ msgctxt "#30031"
-#~ msgid "Audio > ReSID Sampling"
-#~ msgstr ""
-
-#~ msgctxt "#30032"
-#~ msgid "Audio > ReSID Filter Passband"
-#~ msgstr ""
-
-#~ msgctxt "#30033"
-#~ msgid "Audio > ReSID Filter Gain"
-#~ msgstr ""
-
-#~ msgctxt "#30034"
-#~ msgid "Audio > ReSID Filter 6581 Bias"
-#~ msgstr ""
-
-#~ msgctxt "#30035"
-#~ msgid "Audio > ReSID Filter 8580 Bias"
-#~ msgstr ""
-
 #~ msgctxt "#30036"
 #~ msgid "Audio > Sample Rate"
 #~ msgstr "Audio > Tasa de muestreo"
@@ -1758,198 +1758,6 @@ msgstr "Derecha"
 #~ msgctxt "#30038"
 #~ msgid "Input > Datasette Hotkeys"
 #~ msgstr "Entrada > Atajos de teclado de datassete"
-
-#~ msgctxt "#30040"
-#~ msgid "Hotkey > Toggle Virtual Keyboard"
-#~ msgstr ""
-
-#~ msgctxt "#30041"
-#~ msgid "Hotkey > Toggle Statusbar"
-#~ msgstr ""
-
-#~ msgctxt "#30042"
-#~ msgid "Hotkey > Toggle Turbo Fire"
-#~ msgstr ""
-
-#~ msgctxt "#30043"
-#~ msgid "Hotkey > Toggle Save Disk"
-#~ msgstr ""
-
-#~ msgctxt "#30044"
-#~ msgid "Hotkey > Reset"
-#~ msgstr ""
-
-#~ msgctxt "#30045"
-#~ msgid "Hotkey > Hold Warp Mode"
-#~ msgstr ""
-
-#~ msgctxt "#30046"
-#~ msgid "Hotkey > Toggle Datasette Hotkeys"
-#~ msgstr ""
-
-#~ msgctxt "#30047"
-#~ msgid "Hotkey > Datasette PLAY"
-#~ msgstr ""
-
-#~ msgctxt "#30048"
-#~ msgid "Hotkey > Datasette STOP"
-#~ msgstr ""
-
-#~ msgctxt "#30049"
-#~ msgid "Hotkey > Datasette REWIND"
-#~ msgstr ""
-
-#~ msgctxt "#30050"
-#~ msgid "Hotkey > Datasette F.FWD"
-#~ msgstr ""
-
-#~ msgctxt "#30051"
-#~ msgid "Hotkey > Datasette RESET"
-#~ msgstr ""
-
-#~ msgctxt "#30052"
-#~ msgid "RetroPad > Up"
-#~ msgstr ""
-
-#~ msgctxt "#30053"
-#~ msgid "RetroPad > Down"
-#~ msgstr ""
-
-#~ msgctxt "#30054"
-#~ msgid "RetroPad > Left"
-#~ msgstr ""
-
-#~ msgctxt "#30055"
-#~ msgid "RetroPad > Right"
-#~ msgstr ""
-
-#~ msgctxt "#30056"
-#~ msgid "RetroPad > A"
-#~ msgstr ""
-
-#~ msgctxt "#30057"
-#~ msgid "RetroPad > B"
-#~ msgstr ""
-
-#~ msgctxt "#30058"
-#~ msgid "RetroPad > X"
-#~ msgstr ""
-
-#~ msgctxt "#30059"
-#~ msgid "RetroPad > Y"
-#~ msgstr ""
-
-#~ msgctxt "#30060"
-#~ msgid "RetroPad > Select"
-#~ msgstr ""
-
-#~ msgctxt "#30061"
-#~ msgid "RetroPad > Start"
-#~ msgstr ""
-
-#~ msgctxt "#30062"
-#~ msgid "RetroPad > L"
-#~ msgstr ""
-
-#~ msgctxt "#30063"
-#~ msgid "RetroPad > R"
-#~ msgstr ""
-
-#~ msgctxt "#30064"
-#~ msgid "RetroPad > L2"
-#~ msgstr ""
-
-#~ msgctxt "#30065"
-#~ msgid "RetroPad > R2"
-#~ msgstr ""
-
-#~ msgctxt "#30066"
-#~ msgid "RetroPad > L3"
-#~ msgstr ""
-
-#~ msgctxt "#30067"
-#~ msgid "RetroPad > R3"
-#~ msgstr ""
-
-#~ msgctxt "#30068"
-#~ msgid "RetroPad > Left Analog > Up"
-#~ msgstr ""
-
-#~ msgctxt "#30069"
-#~ msgid "RetroPad > Left Analog > Down"
-#~ msgstr ""
-
-#~ msgctxt "#30070"
-#~ msgid "RetroPad > Left Analog > Left"
-#~ msgstr ""
-
-#~ msgctxt "#30071"
-#~ msgid "RetroPad > Left Analog > Right"
-#~ msgstr ""
-
-#~ msgctxt "#30072"
-#~ msgid "RetroPad > Right Analog > Up"
-#~ msgstr ""
-
-#~ msgctxt "#30073"
-#~ msgid "RetroPad > Right Analog > Down"
-#~ msgstr ""
-
-#~ msgctxt "#30074"
-#~ msgid "RetroPad > Right Analog > Left"
-#~ msgstr ""
-
-#~ msgctxt "#30075"
-#~ msgid "RetroPad > Right Analog > Right"
-#~ msgstr ""
-
-#~ msgctxt "#30076"
-#~ msgid "Input > Userport Joystick Adapter"
-#~ msgstr ""
-
-#~ msgctxt "#30077"
-#~ msgid "System > Printer"
-#~ msgstr ""
-
-#~ msgctxt "#30078"
-#~ msgid "Video > Crop"
-#~ msgstr ""
-
-#~ msgctxt "#30080"
-#~ msgid "Video > Crop Mode"
-#~ msgstr ""
-
-#~ msgctxt "#30082"
-#~ msgid "Video > Manual Crop Top"
-#~ msgstr ""
-
-#~ msgctxt "#30083"
-#~ msgid "Video > Manual Crop Bottom"
-#~ msgstr ""
-
-#~ msgctxt "#30084"
-#~ msgid "Video > Manual Crop Left"
-#~ msgstr ""
-
-#~ msgctxt "#30085"
-#~ msgid "Video > Manual Crop Right"
-#~ msgstr ""
-
-#~ msgctxt "#30086"
-#~ msgid "Hotkey > Toggle Crop"
-#~ msgstr ""
-
-#~ msgctxt "#30088"
-#~ msgid "Media > Floppy MultiDrive"
-#~ msgstr ""
-
-#~ msgctxt "#30089"
-#~ msgid "Video > Automatic Crop Delay"
-#~ msgstr ""
-
-#~ msgctxt "#30090"
-#~ msgid "Audio > CRTC Audio Leak Emulation"
-#~ msgstr ""
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

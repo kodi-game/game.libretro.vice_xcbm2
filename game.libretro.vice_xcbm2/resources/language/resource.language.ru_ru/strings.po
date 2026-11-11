@@ -1425,106 +1425,6 @@ msgctxt "#30421"
 msgid "Reset Type"
 msgstr "JiffyDOS"
 
-msgctxt "#30444"
-msgid "Automatic Load Warp"
-msgstr "Прочитать 'vicerc'"
-
-msgctxt "#30445"
-msgid "Warp Boost"
-msgstr "Перезапустить ввод"
-
-msgctxt "#30446"
-msgid "True Drive Emulation"
-msgstr "Автозапуск"
-
-msgctxt "#30447"
-msgid "Virtual Device Traps"
-msgstr "Автоматический ускоритель загрузки (Load Warp)"
-
-msgctxt "#30448"
-msgid "Floppy MultiDrive"
-msgstr "Режим нескольких приводов для дискет (MultiDrive)"
-
-msgctxt "#30449"
-msgid "Floppy Write Protection"
-msgstr "Ускоритель загрузки (Warp Boost)"
-
-msgctxt "#30450"
-msgid "Global Work Disk"
-msgstr "Эмуляция реального накопителя"
-
-msgctxt "#30451"
-msgid "Cartridge"
-msgstr "Ловушки для виртуальных устройств (trap-n-emulate)"
-
-msgctxt "#30434"
-msgid "Crop"
-msgstr "Обрезка"
-
-msgctxt "#30435"
-msgid "Automatic Crop Delay"
-msgstr "Задержка автоматической обрезки"
-
-msgctxt "#30436"
-msgid "Crop Mode"
-msgstr "Режим обрезки"
-
-msgctxt "#30437"
-msgid "Manual Crop Top"
-msgstr "Ручная обрезка сверху"
-
-msgctxt "#30438"
-msgid "Manual Crop Bottom"
-msgstr "Ручная обрезка снизу"
-
-msgctxt "#30439"
-msgid "Manual Crop Left"
-msgstr "Ручная обрезка слева"
-
-msgctxt "#30440"
-msgid "Manual Crop Right"
-msgstr "Ручная обрезка справа"
-
-msgctxt "#30441"
-msgid "CRTC Filter"
-msgstr "Защита записи для EasyFlash"
-
-msgctxt "#30442"
-msgid "CRTC Color Palette"
-msgstr "Пиксельное соотношение сторон"
-
-msgctxt "#30443"
-msgid "Color Depth"
-msgstr "Режим масштабирования"
-
-msgctxt "#30490"
-msgid "Virtual KBD Theme"
-msgstr "Урезанный режим масштабирования"
-
-msgctxt "#30491"
-msgid "Virtual KBD Transparency"
-msgstr "Ручная обрезка сверху"
-
-msgctxt "#30492"
-msgid "Virtual KBD Dimming"
-msgstr "Ручная обрезка снизу"
-
-msgctxt "#30493"
-msgid "Statusbar Mode"
-msgstr "Ручная обрезка слева"
-
-msgctxt "#30494"
-msgid "Statusbar Startup"
-msgstr "Ручная обрезка справа"
-
-msgctxt "#30495"
-msgid "Statusbar Messages"
-msgstr "VIC-II фильтр"
-
-msgctxt "#30496"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "VIC-II фильтр, Oddline фаза"
-
 msgctxt "#30422"
 msgid "Drive Sound Emulation"
 msgstr "VIC-II палитра цвета"
@@ -1573,9 +1473,89 @@ msgctxt "#30433"
 msgid "Sample Rate"
 msgstr "Световое перо/цвет указателя прицела"
 
+msgctxt "#30434"
+msgid "Crop"
+msgstr "Обрезка"
+
+msgctxt "#30435"
+msgid "Automatic Crop Delay"
+msgstr "Задержка автоматической обрезки"
+
+msgctxt "#30436"
+msgid "Crop Mode"
+msgstr "Режим обрезки"
+
+msgctxt "#30437"
+msgid "Manual Crop Top"
+msgstr "Ручная обрезка сверху"
+
+msgctxt "#30438"
+msgid "Manual Crop Bottom"
+msgstr "Ручная обрезка снизу"
+
+msgctxt "#30439"
+msgid "Manual Crop Left"
+msgstr "Ручная обрезка слева"
+
+msgctxt "#30440"
+msgid "Manual Crop Right"
+msgstr "Ручная обрезка справа"
+
+msgctxt "#30441"
+msgid "CRTC Filter"
+msgstr "Защита записи для EasyFlash"
+
+msgctxt "#30442"
+msgid "CRTC Color Palette"
+msgstr "Пиксельное соотношение сторон"
+
+msgctxt "#30443"
+msgid "Color Depth"
+msgstr "Режим масштабирования"
+
+msgctxt "#30444"
+msgid "Automatic Load Warp"
+msgstr "Прочитать 'vicerc'"
+
+msgctxt "#30445"
+msgid "Warp Boost"
+msgstr "Перезапустить ввод"
+
+msgctxt "#30446"
+msgid "True Drive Emulation"
+msgstr "Автозапуск"
+
+msgctxt "#30447"
+msgid "Virtual Device Traps"
+msgstr "Автоматический ускоритель загрузки (Load Warp)"
+
+msgctxt "#30448"
+msgid "Floppy MultiDrive"
+msgstr "Режим нескольких приводов для дискет (MultiDrive)"
+
+msgctxt "#30449"
+msgid "Floppy Write Protection"
+msgstr "Ускоритель загрузки (Warp Boost)"
+
+msgctxt "#30450"
+msgid "Global Work Disk"
+msgstr "Эмуляция реального накопителя"
+
+msgctxt "#30451"
+msgid "Cartridge"
+msgstr "Ловушки для виртуальных устройств (trap-n-emulate)"
+
+msgctxt "#30452"
+msgid "Keyboard Pass-through"
+msgstr ""
+
 msgctxt "#30453"
 msgid "Datasette Hotkeys"
 msgstr "Эмуляция звука дисковода"
+
+msgctxt "#30454"
+msgid "Userport Joystick Adapter"
+msgstr "Адаптер джойстика Userport"
 
 msgctxt "#30455"
 msgid "Toggle Turbo Fire"
@@ -1717,9 +1697,33 @@ msgctxt "#30489"
 msgid "Right Analog > Right"
 msgstr "Правый аналог > Вправо"
 
-msgctxt "#30454"
-msgid "Userport Joystick Adapter"
-msgstr "Адаптер джойстика Userport"
+msgctxt "#30490"
+msgid "Virtual KBD Theme"
+msgstr "Урезанный режим масштабирования"
+
+msgctxt "#30491"
+msgid "Virtual KBD Transparency"
+msgstr "Ручная обрезка сверху"
+
+msgctxt "#30492"
+msgid "Virtual KBD Dimming"
+msgstr "Ручная обрезка снизу"
+
+msgctxt "#30493"
+msgid "Statusbar Mode"
+msgstr "Ручная обрезка слева"
+
+msgctxt "#30494"
+msgid "Statusbar Startup"
+msgstr "Ручная обрезка справа"
+
+msgctxt "#30495"
+msgid "Statusbar Messages"
+msgstr "VIC-II фильтр"
+
+msgctxt "#30496"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "VIC-II фильтр, Oddline фаза"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"

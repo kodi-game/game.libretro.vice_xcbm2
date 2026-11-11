@@ -270,6 +270,10 @@ msgctxt "#30146"
 msgid "Configure video options."
 msgstr ""
 
+msgctxt "#30147"
+msgid "Remove borders according to 'Crop Mode'."
+msgstr ""
+
 msgctxt "#30148"
 msgid "Small"
 msgstr ""
@@ -1391,106 +1395,6 @@ msgctxt "#30421"
 msgid "Reset Type"
 msgstr "Omstartstyp"
 
-msgctxt "#30444"
-msgid "Automatic Load Warp"
-msgstr "Automatisk Load Warp"
-
-msgctxt "#30445"
-msgid "Warp Boost"
-msgstr "Warp Boost"
-
-msgctxt "#30446"
-msgid "True Drive Emulation"
-msgstr "True Drive-emulering"
-
-msgctxt "#30447"
-msgid "Virtual Device Traps"
-msgstr "Traps för virtuella enheter"
-
-msgctxt "#30448"
-msgid "Floppy MultiDrive"
-msgstr "Diskett MultiDrive"
-
-msgctxt "#30449"
-msgid "Floppy Write Protection"
-msgstr "Skrivskydd för disketter"
-
-msgctxt "#30450"
-msgid "Global Work Disk"
-msgstr "Global arbetsdisk"
-
-msgctxt "#30451"
-msgid "Cartridge"
-msgstr "Kassett"
-
-msgctxt "#30434"
-msgid "Crop"
-msgstr "Beskär"
-
-msgctxt "#30435"
-msgid "Automatic Crop Delay"
-msgstr "Automatisk fördröjning av beskärning"
-
-msgctxt "#30436"
-msgid "Crop Mode"
-msgstr "Beskärningsläge"
-
-msgctxt "#30437"
-msgid "Manual Crop Top"
-msgstr "Manuell beskärning överst"
-
-msgctxt "#30438"
-msgid "Manual Crop Bottom"
-msgstr "Manuell beskärning nederst"
-
-msgctxt "#30439"
-msgid "Manual Crop Left"
-msgstr "Manuell beskärning vänster"
-
-msgctxt "#30440"
-msgid "Manual Crop Right"
-msgstr "Manuell beskärning höger"
-
-msgctxt "#30441"
-msgid "CRTC Filter"
-msgstr "CRTC-filter"
-
-msgctxt "#30442"
-msgid "CRTC Color Palette"
-msgstr "CRTC färgpalett"
-
-msgctxt "#30443"
-msgid "Color Depth"
-msgstr "Färgdjup"
-
-msgctxt "#30490"
-msgid "Virtual KBD Theme"
-msgstr "Virtuellt KBD-tema"
-
-msgctxt "#30491"
-msgid "Virtual KBD Transparency"
-msgstr "Virtuell KBD-genomskinlighet"
-
-msgctxt "#30492"
-msgid "Virtual KBD Dimming"
-msgstr "Virtuell KBD-dimning"
-
-msgctxt "#30493"
-msgid "Statusbar Mode"
-msgstr "Statusfältläge"
-
-msgctxt "#30494"
-msgid "Statusbar Startup"
-msgstr "Statusfält vid uppstart"
-
-msgctxt "#30495"
-msgid "Statusbar Messages"
-msgstr "Meddelanden för statusfält"
-
-msgctxt "#30496"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "Färg på ljuspennan/pistolpekaren"
-
 msgctxt "#30422"
 msgid "Drive Sound Emulation"
 msgstr "Emulering av enhetsljud"
@@ -1539,6 +1443,78 @@ msgctxt "#30433"
 msgid "Sample Rate"
 msgstr "Samplingsfrekvens"
 
+msgctxt "#30434"
+msgid "Crop"
+msgstr "Beskär"
+
+msgctxt "#30435"
+msgid "Automatic Crop Delay"
+msgstr "Automatisk fördröjning av beskärning"
+
+msgctxt "#30436"
+msgid "Crop Mode"
+msgstr "Beskärningsläge"
+
+msgctxt "#30437"
+msgid "Manual Crop Top"
+msgstr "Manuell beskärning överst"
+
+msgctxt "#30438"
+msgid "Manual Crop Bottom"
+msgstr "Manuell beskärning nederst"
+
+msgctxt "#30439"
+msgid "Manual Crop Left"
+msgstr "Manuell beskärning vänster"
+
+msgctxt "#30440"
+msgid "Manual Crop Right"
+msgstr "Manuell beskärning höger"
+
+msgctxt "#30441"
+msgid "CRTC Filter"
+msgstr "CRTC-filter"
+
+msgctxt "#30442"
+msgid "CRTC Color Palette"
+msgstr "CRTC färgpalett"
+
+msgctxt "#30443"
+msgid "Color Depth"
+msgstr "Färgdjup"
+
+msgctxt "#30444"
+msgid "Automatic Load Warp"
+msgstr "Automatisk Load Warp"
+
+msgctxt "#30445"
+msgid "Warp Boost"
+msgstr "Warp Boost"
+
+msgctxt "#30446"
+msgid "True Drive Emulation"
+msgstr "True Drive-emulering"
+
+msgctxt "#30447"
+msgid "Virtual Device Traps"
+msgstr "Traps för virtuella enheter"
+
+msgctxt "#30448"
+msgid "Floppy MultiDrive"
+msgstr "Diskett MultiDrive"
+
+msgctxt "#30449"
+msgid "Floppy Write Protection"
+msgstr "Skrivskydd för disketter"
+
+msgctxt "#30450"
+msgid "Global Work Disk"
+msgstr "Global arbetsdisk"
+
+msgctxt "#30451"
+msgid "Cartridge"
+msgstr "Kassett"
+
 msgctxt "#30452"
 msgid "Keyboard Pass-through"
 msgstr "Genomströmning av tangentbord"
@@ -1546,6 +1522,10 @@ msgstr "Genomströmning av tangentbord"
 msgctxt "#30453"
 msgid "Datasette Hotkeys"
 msgstr "Snabbtangenter för datasette"
+
+msgctxt "#30454"
+msgid "Userport Joystick Adapter"
+msgstr "Userport Joystick-adapter"
 
 msgctxt "#30455"
 msgid "Toggle Turbo Fire"
@@ -1687,9 +1667,33 @@ msgctxt "#30489"
 msgid "Right Analog > Right"
 msgstr "Höger analog > Höger"
 
-msgctxt "#30454"
-msgid "Userport Joystick Adapter"
-msgstr "Userport Joystick-adapter"
+msgctxt "#30490"
+msgid "Virtual KBD Theme"
+msgstr "Virtuellt KBD-tema"
+
+msgctxt "#30491"
+msgid "Virtual KBD Transparency"
+msgstr "Virtuell KBD-genomskinlighet"
+
+msgctxt "#30492"
+msgid "Virtual KBD Dimming"
+msgstr "Virtuell KBD-dimning"
+
+msgctxt "#30493"
+msgid "Statusbar Mode"
+msgstr "Statusfältläge"
+
+msgctxt "#30494"
+msgid "Statusbar Startup"
+msgstr "Statusfält vid uppstart"
+
+msgctxt "#30495"
+msgid "Statusbar Messages"
+msgstr "Meddelanden för statusfält"
+
+msgctxt "#30496"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Färg på ljuspennan/pistolpekaren"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"

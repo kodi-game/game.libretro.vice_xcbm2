@@ -270,6 +270,10 @@ msgctxt "#30146"
 msgid "Configure video options."
 msgstr ""
 
+msgctxt "#30147"
+msgid "Remove borders according to 'Crop Mode'."
+msgstr ""
+
 msgctxt "#30148"
 msgid "Small"
 msgstr ""
@@ -1391,106 +1395,6 @@ msgctxt "#30421"
 msgid "Reset Type"
 msgstr "JiffyDOS"
 
-msgctxt "#30444"
-msgid "Automatic Load Warp"
-msgstr "Leer 'vicerc'"
-
-msgctxt "#30445"
-msgid "Warp Boost"
-msgstr "Tipo de Reinicio"
-
-msgctxt "#30446"
-msgid "True Drive Emulation"
-msgstr "Inicio Automático"
-
-msgctxt "#30447"
-msgid "Virtual Device Traps"
-msgstr "Carga Automática Warp"
-
-msgctxt "#30448"
-msgid "Floppy MultiDrive"
-msgstr "Y"
-
-msgctxt "#30449"
-msgid "Floppy Write Protection"
-msgstr "Impulso Warp"
-
-msgctxt "#30450"
-msgid "Global Work Disk"
-msgstr "Emulación de Unidad Real"
-
-msgctxt "#30451"
-msgid "Cartridge"
-msgstr "Capturas de Dispositivos Virtuales"
-
-msgctxt "#30434"
-msgid "Crop"
-msgstr "REWIND Datasette"
-
-msgctxt "#30435"
-msgid "Automatic Crop Delay"
-msgstr "Select"
-
-msgctxt "#30436"
-msgid "Crop Mode"
-msgstr "RESET Datasette"
-
-msgctxt "#30437"
-msgid "Manual Crop Top"
-msgstr "Abajo"
-
-msgctxt "#30438"
-msgid "Manual Crop Bottom"
-msgstr "Izquierda"
-
-msgctxt "#30439"
-msgid "Manual Crop Left"
-msgstr "Derecha"
-
-msgctxt "#30440"
-msgid "Manual Crop Right"
-msgstr "A"
-
-msgctxt "#30441"
-msgid "CRTC Filter"
-msgstr "Protección Contra Escritura de EasyFlash"
-
-msgctxt "#30442"
-msgid "CRTC Color Palette"
-msgstr "Proporción de Píxeles"
-
-msgctxt "#30443"
-msgid "Color Depth"
-msgstr "Recortar"
-
-msgctxt "#30490"
-msgid "Virtual KBD Theme"
-msgstr "Modo Zoom"
-
-msgctxt "#30491"
-msgid "Virtual KBD Transparency"
-msgstr "Modo de Recorte"
-
-msgctxt "#30492"
-msgid "Virtual KBD Dimming"
-msgstr "Modo Recorte Zoom"
-
-msgctxt "#30493"
-msgid "Statusbar Mode"
-msgstr "Recorte Manual Parte Superior"
-
-msgctxt "#30494"
-msgid "Statusbar Startup"
-msgstr "Recorte Manual Parte Inferior"
-
-msgctxt "#30495"
-msgid "Statusbar Messages"
-msgstr "Recorte Manual Parte Izquierda"
-
-msgctxt "#30496"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "Recorte Manual Parte Derecha"
-
 msgctxt "#30422"
 msgid "Drive Sound Emulation"
 msgstr "Filtro VIC-II Fase de Línea Impar"
@@ -1539,6 +1443,78 @@ msgctxt "#30433"
 msgid "Sample Rate"
 msgstr "Transparencia KBD Virtual"
 
+msgctxt "#30434"
+msgid "Crop"
+msgstr "REWIND Datasette"
+
+msgctxt "#30435"
+msgid "Automatic Crop Delay"
+msgstr "Select"
+
+msgctxt "#30436"
+msgid "Crop Mode"
+msgstr "RESET Datasette"
+
+msgctxt "#30437"
+msgid "Manual Crop Top"
+msgstr "Abajo"
+
+msgctxt "#30438"
+msgid "Manual Crop Bottom"
+msgstr "Izquierda"
+
+msgctxt "#30439"
+msgid "Manual Crop Left"
+msgstr "Derecha"
+
+msgctxt "#30440"
+msgid "Manual Crop Right"
+msgstr "A"
+
+msgctxt "#30441"
+msgid "CRTC Filter"
+msgstr "Protección Contra Escritura de EasyFlash"
+
+msgctxt "#30442"
+msgid "CRTC Color Palette"
+msgstr "Proporción de Píxeles"
+
+msgctxt "#30443"
+msgid "Color Depth"
+msgstr "Recortar"
+
+msgctxt "#30444"
+msgid "Automatic Load Warp"
+msgstr "Leer 'vicerc'"
+
+msgctxt "#30445"
+msgid "Warp Boost"
+msgstr "Tipo de Reinicio"
+
+msgctxt "#30446"
+msgid "True Drive Emulation"
+msgstr "Inicio Automático"
+
+msgctxt "#30447"
+msgid "Virtual Device Traps"
+msgstr "Carga Automática Warp"
+
+msgctxt "#30448"
+msgid "Floppy MultiDrive"
+msgstr "Y"
+
+msgctxt "#30449"
+msgid "Floppy Write Protection"
+msgstr "Impulso Warp"
+
+msgctxt "#30450"
+msgid "Global Work Disk"
+msgstr "Emulación de Unidad Real"
+
+msgctxt "#30451"
+msgid "Cartridge"
+msgstr "Capturas de Dispositivos Virtuales"
+
 msgctxt "#30452"
 msgid "Keyboard Pass-through"
 msgstr "Atenuación KBD Virtual"
@@ -1546,6 +1522,10 @@ msgstr "Atenuación KBD Virtual"
 msgctxt "#30453"
 msgid "Datasette Hotkeys"
 msgstr "Modo Barra de Estado"
+
+msgctxt "#30454"
+msgid "Userport Joystick Adapter"
+msgstr "PLAY Datasette"
 
 msgctxt "#30455"
 msgid "Toggle Turbo Fire"
@@ -1639,6 +1619,10 @@ msgctxt "#30477"
 msgid "R"
 msgstr "Mapa del Teclado"
 
+msgctxt "#30478"
+msgid "L2"
+msgstr ""
+
 msgctxt "#30479"
 msgid "R2"
 msgstr "Activar Teclado Virtual"
@@ -1651,9 +1635,65 @@ msgctxt "#30481"
 msgid "R3"
 msgstr "Cambiar Joyport"
 
-msgctxt "#30454"
-msgid "Userport Joystick Adapter"
-msgstr "PLAY Datasette"
+msgctxt "#30482"
+msgid "Left Analog > Up"
+msgstr ""
+
+msgctxt "#30483"
+msgid "Left Analog > Down"
+msgstr ""
+
+msgctxt "#30484"
+msgid "Left Analog > Left"
+msgstr ""
+
+msgctxt "#30485"
+msgid "Left Analog > Right"
+msgstr ""
+
+msgctxt "#30486"
+msgid "Right Analog > Up"
+msgstr ""
+
+msgctxt "#30487"
+msgid "Right Analog > Down"
+msgstr ""
+
+msgctxt "#30488"
+msgid "Right Analog > Left"
+msgstr ""
+
+msgctxt "#30489"
+msgid "Right Analog > Right"
+msgstr ""
+
+msgctxt "#30490"
+msgid "Virtual KBD Theme"
+msgstr "Modo Zoom"
+
+msgctxt "#30491"
+msgid "Virtual KBD Transparency"
+msgstr "Modo de Recorte"
+
+msgctxt "#30492"
+msgid "Virtual KBD Dimming"
+msgstr "Modo Recorte Zoom"
+
+msgctxt "#30493"
+msgid "Statusbar Mode"
+msgstr "Recorte Manual Parte Superior"
+
+msgctxt "#30494"
+msgid "Statusbar Startup"
+msgstr "Recorte Manual Parte Inferior"
+
+msgctxt "#30495"
+msgid "Statusbar Messages"
+msgstr "Recorte Manual Parte Izquierda"
+
+msgctxt "#30496"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Recorte Manual Parte Derecha"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"

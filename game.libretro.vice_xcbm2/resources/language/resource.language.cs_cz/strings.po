@@ -1425,106 +1425,6 @@ msgctxt "#30421"
 msgid "Reset Type"
 msgstr "Typ resetu"
 
-msgctxt "#30444"
-msgid "Automatic Load Warp"
-msgstr "Automatické zrychlení při načítání"
-
-msgctxt "#30445"
-msgid "Warp Boost"
-msgstr "Posílení zrychleného režimu"
-
-msgctxt "#30446"
-msgid "True Drive Emulation"
-msgstr "Věrná emulace mechaniky"
-
-msgctxt "#30447"
-msgid "Virtual Device Traps"
-msgstr "Zachytávání virtuálních zařízení"
-
-msgctxt "#30448"
-msgid "Floppy MultiDrive"
-msgstr "Více disketových mechanik"
-
-msgctxt "#30449"
-msgid "Floppy Write Protection"
-msgstr "Ochrana disket proti zápisu"
-
-msgctxt "#30450"
-msgid "Global Work Disk"
-msgstr "Globální pracovní disk"
-
-msgctxt "#30451"
-msgid "Cartridge"
-msgstr "Cartridge"
-
-msgctxt "#30434"
-msgid "Crop"
-msgstr "Oříznutí"
-
-msgctxt "#30435"
-msgid "Automatic Crop Delay"
-msgstr "Prodleva automatického oříznutí"
-
-msgctxt "#30436"
-msgid "Crop Mode"
-msgstr "Režim oříznutí"
-
-msgctxt "#30437"
-msgid "Manual Crop Top"
-msgstr "Ruční oříznutí nahoře"
-
-msgctxt "#30438"
-msgid "Manual Crop Bottom"
-msgstr "Ruční oříznutí dole"
-
-msgctxt "#30439"
-msgid "Manual Crop Left"
-msgstr "Ruční oříznutí vlevo"
-
-msgctxt "#30440"
-msgid "Manual Crop Right"
-msgstr "Ruční oříznutí vpravo"
-
-msgctxt "#30441"
-msgid "CRTC Filter"
-msgstr "Filtr CRTC"
-
-msgctxt "#30442"
-msgid "CRTC Color Palette"
-msgstr "Barevná paleta CRTC"
-
-msgctxt "#30443"
-msgid "Color Depth"
-msgstr "Barevná hloubka"
-
-msgctxt "#30490"
-msgid "Virtual KBD Theme"
-msgstr "Motiv virtuální klávesnice"
-
-msgctxt "#30491"
-msgid "Virtual KBD Transparency"
-msgstr "Průhlednost virtuální klávesnice"
-
-msgctxt "#30492"
-msgid "Virtual KBD Dimming"
-msgstr "Ztmavení okolí virtuální klávesnice"
-
-msgctxt "#30493"
-msgid "Statusbar Mode"
-msgstr "Režim stavového řádku"
-
-msgctxt "#30494"
-msgid "Statusbar Startup"
-msgstr "Stavový řádek při spuštění"
-
-msgctxt "#30495"
-msgid "Statusbar Messages"
-msgstr "Zprávy stavového řádku"
-
-msgctxt "#30496"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "Barva ukazatele světelného pera/pistole"
-
 msgctxt "#30422"
 msgid "Drive Sound Emulation"
 msgstr "Emulace zvuku disketové mechaniky"
@@ -1573,6 +1473,78 @@ msgctxt "#30433"
 msgid "Sample Rate"
 msgstr "Vzorkovací frekvence"
 
+msgctxt "#30434"
+msgid "Crop"
+msgstr "Oříznutí"
+
+msgctxt "#30435"
+msgid "Automatic Crop Delay"
+msgstr "Prodleva automatického oříznutí"
+
+msgctxt "#30436"
+msgid "Crop Mode"
+msgstr "Režim oříznutí"
+
+msgctxt "#30437"
+msgid "Manual Crop Top"
+msgstr "Ruční oříznutí nahoře"
+
+msgctxt "#30438"
+msgid "Manual Crop Bottom"
+msgstr "Ruční oříznutí dole"
+
+msgctxt "#30439"
+msgid "Manual Crop Left"
+msgstr "Ruční oříznutí vlevo"
+
+msgctxt "#30440"
+msgid "Manual Crop Right"
+msgstr "Ruční oříznutí vpravo"
+
+msgctxt "#30441"
+msgid "CRTC Filter"
+msgstr "Filtr CRTC"
+
+msgctxt "#30442"
+msgid "CRTC Color Palette"
+msgstr "Barevná paleta CRTC"
+
+msgctxt "#30443"
+msgid "Color Depth"
+msgstr "Barevná hloubka"
+
+msgctxt "#30444"
+msgid "Automatic Load Warp"
+msgstr "Automatické zrychlení při načítání"
+
+msgctxt "#30445"
+msgid "Warp Boost"
+msgstr "Posílení zrychleného režimu"
+
+msgctxt "#30446"
+msgid "True Drive Emulation"
+msgstr "Věrná emulace mechaniky"
+
+msgctxt "#30447"
+msgid "Virtual Device Traps"
+msgstr "Zachytávání virtuálních zařízení"
+
+msgctxt "#30448"
+msgid "Floppy MultiDrive"
+msgstr "Více disketových mechanik"
+
+msgctxt "#30449"
+msgid "Floppy Write Protection"
+msgstr "Ochrana disket proti zápisu"
+
+msgctxt "#30450"
+msgid "Global Work Disk"
+msgstr "Globální pracovní disk"
+
+msgctxt "#30451"
+msgid "Cartridge"
+msgstr "Cartridge"
+
 msgctxt "#30452"
 msgid "Keyboard Pass-through"
 msgstr "Předávání klávesnice"
@@ -1580,6 +1552,10 @@ msgstr "Předávání klávesnice"
 msgctxt "#30453"
 msgid "Datasette Hotkeys"
 msgstr "Zkratky jednotky Datasette"
+
+msgctxt "#30454"
+msgid "Userport Joystick Adapter"
+msgstr "Adaptér joysticku pro Userport"
 
 msgctxt "#30455"
 msgid "Toggle Turbo Fire"
@@ -1721,9 +1697,33 @@ msgctxt "#30489"
 msgid "Right Analog > Right"
 msgstr "Pravá analogová páčka > Doprava"
 
-msgctxt "#30454"
-msgid "Userport Joystick Adapter"
-msgstr "Adaptér joysticku pro Userport"
+msgctxt "#30490"
+msgid "Virtual KBD Theme"
+msgstr "Motiv virtuální klávesnice"
+
+msgctxt "#30491"
+msgid "Virtual KBD Transparency"
+msgstr "Průhlednost virtuální klávesnice"
+
+msgctxt "#30492"
+msgid "Virtual KBD Dimming"
+msgstr "Ztmavení okolí virtuální klávesnice"
+
+msgctxt "#30493"
+msgid "Statusbar Mode"
+msgstr "Režim stavového řádku"
+
+msgctxt "#30494"
+msgid "Statusbar Startup"
+msgstr "Stavový řádek při spuštění"
+
+msgctxt "#30495"
+msgid "Statusbar Messages"
+msgstr "Zprávy stavového řádku"
+
+msgctxt "#30496"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Barva ukazatele světelného pera/pistole"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"

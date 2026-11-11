@@ -270,6 +270,10 @@ msgctxt "#30146"
 msgid "Configure video options."
 msgstr ""
 
+msgctxt "#30147"
+msgid "Remove borders according to 'Crop Mode'."
+msgstr ""
+
 msgctxt "#30148"
 msgid "Small"
 msgstr ""
@@ -1391,106 +1395,6 @@ msgctxt "#30421"
 msgid "Reset Type"
 msgstr "JiffyDOS"
 
-msgctxt "#30444"
-msgid "Automatic Load Warp"
-msgstr "读取“vicerc”"
-
-msgctxt "#30445"
-msgid "Warp Boost"
-msgstr "重置类型"
-
-msgctxt "#30446"
-msgid "True Drive Emulation"
-msgstr "自动启动"
-
-msgctxt "#30447"
-msgid "Virtual Device Traps"
-msgstr "自动加载 Warp"
-
-msgctxt "#30448"
-msgid "Floppy MultiDrive"
-msgstr "Y"
-
-msgctxt "#30449"
-msgid "Floppy Write Protection"
-msgstr "Warp 增强"
-
-msgctxt "#30450"
-msgid "Global Work Disk"
-msgstr "真实驱动器真"
-
-msgctxt "#30451"
-msgid "Cartridge"
-msgstr "虚拟设备陷阱"
-
-msgctxt "#30434"
-msgid "Crop"
-msgstr "磁带机倒带"
-
-msgctxt "#30435"
-msgid "Automatic Crop Delay"
-msgstr "Select"
-
-msgctxt "#30436"
-msgid "Crop Mode"
-msgstr "磁带机重置"
-
-msgctxt "#30437"
-msgid "Manual Crop Top"
-msgstr "下"
-
-msgctxt "#30438"
-msgid "Manual Crop Bottom"
-msgstr "左"
-
-msgctxt "#30439"
-msgid "Manual Crop Left"
-msgstr "右"
-
-msgctxt "#30440"
-msgid "Manual Crop Right"
-msgstr "A"
-
-msgctxt "#30441"
-msgid "CRTC Filter"
-msgstr "EasyFlash 写保护"
-
-msgctxt "#30442"
-msgid "CRTC Color Palette"
-msgstr "像素纵横比"
-
-msgctxt "#30443"
-msgid "Color Depth"
-msgstr "裁剪"
-
-msgctxt "#30490"
-msgid "Virtual KBD Theme"
-msgstr "缩放模式"
-
-msgctxt "#30491"
-msgid "Virtual KBD Transparency"
-msgstr "裁剪模式"
-
-msgctxt "#30492"
-msgid "Virtual KBD Dimming"
-msgstr "缩放模式裁剪"
-
-msgctxt "#30493"
-msgid "Statusbar Mode"
-msgstr "手动裁剪顶部"
-
-msgctxt "#30494"
-msgid "Statusbar Startup"
-msgstr "手动裁剪底部"
-
-msgctxt "#30495"
-msgid "Statusbar Messages"
-msgstr "手动裁剪左边"
-
-msgctxt "#30496"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "手动裁剪右边"
-
 msgctxt "#30422"
 msgid "Drive Sound Emulation"
 msgstr "VIC-II 滤波器奇数行相位"
@@ -1539,6 +1443,78 @@ msgctxt "#30433"
 msgid "Sample Rate"
 msgstr "虚拟 KBD 透明度"
 
+msgctxt "#30434"
+msgid "Crop"
+msgstr "磁带机倒带"
+
+msgctxt "#30435"
+msgid "Automatic Crop Delay"
+msgstr "Select"
+
+msgctxt "#30436"
+msgid "Crop Mode"
+msgstr "磁带机重置"
+
+msgctxt "#30437"
+msgid "Manual Crop Top"
+msgstr "下"
+
+msgctxt "#30438"
+msgid "Manual Crop Bottom"
+msgstr "左"
+
+msgctxt "#30439"
+msgid "Manual Crop Left"
+msgstr "右"
+
+msgctxt "#30440"
+msgid "Manual Crop Right"
+msgstr "A"
+
+msgctxt "#30441"
+msgid "CRTC Filter"
+msgstr "EasyFlash 写保护"
+
+msgctxt "#30442"
+msgid "CRTC Color Palette"
+msgstr "像素纵横比"
+
+msgctxt "#30443"
+msgid "Color Depth"
+msgstr "裁剪"
+
+msgctxt "#30444"
+msgid "Automatic Load Warp"
+msgstr "读取“vicerc”"
+
+msgctxt "#30445"
+msgid "Warp Boost"
+msgstr "重置类型"
+
+msgctxt "#30446"
+msgid "True Drive Emulation"
+msgstr "自动启动"
+
+msgctxt "#30447"
+msgid "Virtual Device Traps"
+msgstr "自动加载 Warp"
+
+msgctxt "#30448"
+msgid "Floppy MultiDrive"
+msgstr "Y"
+
+msgctxt "#30449"
+msgid "Floppy Write Protection"
+msgstr "Warp 增强"
+
+msgctxt "#30450"
+msgid "Global Work Disk"
+msgstr "真实驱动器真"
+
+msgctxt "#30451"
+msgid "Cartridge"
+msgstr "虚拟设备陷阱"
+
 msgctxt "#30452"
 msgid "Keyboard Pass-through"
 msgstr "虚拟 KBD 调光"
@@ -1546,6 +1522,10 @@ msgstr "虚拟 KBD 调光"
 msgctxt "#30453"
 msgid "Datasette Hotkeys"
 msgstr "状态栏模式"
+
+msgctxt "#30454"
+msgid "Userport Joystick Adapter"
+msgstr "磁带机播放"
 
 msgctxt "#30455"
 msgid "Toggle Turbo Fire"
@@ -1639,6 +1619,10 @@ msgctxt "#30477"
 msgid "R"
 msgstr "键盘键映射"
 
+msgctxt "#30478"
+msgid "L2"
+msgstr ""
+
 msgctxt "#30479"
 msgid "R2"
 msgstr "切换虚拟键盘"
@@ -1651,9 +1635,65 @@ msgctxt "#30481"
 msgid "R3"
 msgstr "切换 Joyport"
 
-msgctxt "#30454"
-msgid "Userport Joystick Adapter"
-msgstr "磁带机播放"
+msgctxt "#30482"
+msgid "Left Analog > Up"
+msgstr ""
+
+msgctxt "#30483"
+msgid "Left Analog > Down"
+msgstr ""
+
+msgctxt "#30484"
+msgid "Left Analog > Left"
+msgstr ""
+
+msgctxt "#30485"
+msgid "Left Analog > Right"
+msgstr ""
+
+msgctxt "#30486"
+msgid "Right Analog > Up"
+msgstr ""
+
+msgctxt "#30487"
+msgid "Right Analog > Down"
+msgstr ""
+
+msgctxt "#30488"
+msgid "Right Analog > Left"
+msgstr ""
+
+msgctxt "#30489"
+msgid "Right Analog > Right"
+msgstr ""
+
+msgctxt "#30490"
+msgid "Virtual KBD Theme"
+msgstr "缩放模式"
+
+msgctxt "#30491"
+msgid "Virtual KBD Transparency"
+msgstr "裁剪模式"
+
+msgctxt "#30492"
+msgid "Virtual KBD Dimming"
+msgstr "缩放模式裁剪"
+
+msgctxt "#30493"
+msgid "Statusbar Mode"
+msgstr "手动裁剪顶部"
+
+msgctxt "#30494"
+msgid "Statusbar Startup"
+msgstr "手动裁剪底部"
+
+msgctxt "#30495"
+msgid "Statusbar Messages"
+msgstr "手动裁剪左边"
+
+msgctxt "#30496"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "手动裁剪右边"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"
